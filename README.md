@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vatsal Sharma</h1>
-<h3 align="center">Writing Code with a Learner’s Soul</h3>
+<h1 align="cleft">Hi 👋, I'm Vatsal Sharma</h1>
+<h3 align="left">Writing Code with a Learner’s Soul</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
